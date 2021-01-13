@@ -7,6 +7,5 @@ $(document).ready(function(){
             $("input").removeClass("is-invalid")
             $("input").addClass("is-valid")
         }
-        
     })
 });
