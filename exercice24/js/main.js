@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $("button").click(function(){
-        $("#bg").animate({left: "100px"})
+        $("#bg").animate({marginLeft: "100px"})
     })
 });
-//la div se deplace mais l'image (je n'ai pas encore reussi a la detecter)
+//quelle est la difference entre left et marginLeft ici ?
