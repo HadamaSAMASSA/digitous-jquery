@@ -1,8 +1,8 @@
 $(document).ready(function(){
     $("button").click(function(){
         $("#square").animate({
-            left: "400px",
-            top: "190px"
+            bottom: "0px",
+            right: "0px"
         })
     })
 });
